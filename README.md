@@ -20,4 +20,4 @@ Teespring auto uploader is a C# application tool allow to upload hundreds of tsh
 ![](https://github.com/dvcuong05/TeespringAutoUploader/blob/master/slide/result.png)
 
 # Contact for more information.
-
+- Developer contact: [David Do](mailto:dvcuong05@gmail.com), [Nam Vay](https://github.com/vpnocsen)
